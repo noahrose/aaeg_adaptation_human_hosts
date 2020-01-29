@@ -1,0 +1,33 @@
+Trial,Colony,Day,TrialOnDay,DOW,Date,Hatch,Age,Host,Species,Country,Hu,Time,N,N_Alt,N_Hu,Flow,Notes,Population,Matchup
+1,FCV2,15,4,M,18-Mar,1-Mar,10,Moja,GP,Gabon,L,6:00,60,8,0,0.61,,FCV,HU2vsMoja
+2,AWK1-50,15,2,M,18-Mar,1-Mar,10,Moja,GP,Nigeria,L,5:00,100,34,11,0.61,,AWK,HU2vsMoja
+3,OGDL,15,3,M,18-Mar,1-Mar,10,Moja,GP,BurkinaFaso,L,5:30,100,15,17,0.61,,OGD,HU2vsMoja
+4,NGO1-15,15,1,M,18-Mar,1-Mar,10,Moja,GP,Senegal,L,NA,NA,NA,NA,NA,"only 3 responded, not using",NGO,HU2vsMoja
+5,FCV2,16,3,M,19-Mar,1-Mar,11,Afi,QU,Gabon,L,3:30,47,4,0,0.62,,FCV,HU1vsAfi
+6,AWK1-50,16,4,M,19-Mar,1-Mar,11,Afi,QU,Nigeria,L,3:50,94,15,5,0.62,,AWK,HU1vsAfi
+7,OGDL,16,2,M,19-Mar,1-Mar,11,Afi,QU,BurkinaFaso,L,3:10,100,6,47,0.62,,OGD,HU1vsAfi
+8,NGO1-15,16,1,M,19-Mar,1-Mar,11,Afi,QU,Senegal,L,2:50,100,1,75,0.62,,NGO,HU1vsAfi
+9,FCV2,17,2,M,19-Mar,1-Mar,11,Moja,GP,Gabon,R,10:50,60,8,0,0.62,,FCV,HU2vsMoja
+10,AWK1-50,17,4,M,19-Mar,1-Mar,11,Moja,GP,Nigeria,R,11:30,93,17,0,0.62,,AWK,HU2vsMoja
+11,OGDL,17,3,M,19-Mar,1-Mar,11,Moja,GP,BurkinaFaso,R,11:10,99,15,7,0.62,,OGD,HU2vsMoja
+12,NGO1-15,17,1,M,19-Mar,1-Mar,11,Moja,GP,Senegal,R,10:30,100,9,15,0.62,,NGO,HU2vsMoja
+13,FCV2,18,3,M,20-Mar,1-Mar,12,Afi,QU,Gabon,R,2:00,83,17,0,0.61,,FCV,HU1vsAfi
+14,AWK1-50,18,1,M,20-Mar,1-Mar,12,Afi,QU,Nigeria,R,1:20,95,9,12,0.61,,AWK,HU1vsAfi
+15,OGDL,18,2,M,20-Mar,1-Mar,12,Afi,QU,BurkinaFaso,R,1:40,100,8,57,0.61,,OGD,HU1vsAfi
+16,NGO1-15,18,4,M,20-Mar,1-Mar,12,Afi,QU,Senegal,R,2:20,100,12,52,0.61,,NGO,HU1vsAfi
+17,FCV2,19,2,M,20-Mar,1-Mar,12,Moja,GP,Gabon,L,4:00,66,7,0,0.63,,FCV,HU2vsMoja
+18,AWK51-100,19,4,M,20-Mar,1-Mar,12,Moja,GP,Nigeria,L,4:40,98,54,2,0.63,,AWK,HU2vsMoja
+19,OGDT,19,3,M,20-Mar,1-Mar,12,Moja,GP,BurkinaFaso,L,4:20,100,22,12,0.63,,OGD,HU2vsMoja
+20,NGO16-40,19,1,M,20-Mar,1-Mar,12,Moja,GP,Senegal,L,3:40,100,24,24,0.61,,NGO,HU2vsMoja
+21,FCV2,20,1,M,21-Mar,1-Mar,13,Afi,QU,Gabon,L,1:30,54,5,0,0.62,,FCV,HU1vsAfi
+22,AWK51-100,20,4,M,21-Mar,1-Mar,13,Afi,QU,Nigeria,L,2:10,96,39,16,0.62,,AWK,HU1vsAfi
+23,OGDT,20,3,M,21-Mar,1-Mar,13,Afi,QU,BurkinaFaso,L,1:50,100,4,41,0.62,,OGD,HU1vsAfi
+24,NGO16-40,20,2,M,20-Mar,1-Mar,12,Moja,GP,Senegal,L,5:00,100,28,31,0.62,extra trial end of day,NGO,HU2vsMoja
+25,FCV2,21,1,M,21-Mar,1-Mar,9,Moja,GP,Gabon,R,10:30,100,9,0,0.62,,FCV,HU2vsMoja
+26,AWK51-100,21,4,M,21-Mar,1-Mar,13,Moja,GP,Nigeria,R,11:40,100,19,2,0.62,,AWK,HU2vsMoja
+27,OGDT,21,2,M,21-Mar,1-Mar,13,Moja,GP,BurkinaFaso,R,10:50,100,25,1,0.62,,OGD,HU2vsMoja
+28,NGO16-40,21,3,M,21-Mar,1-Mar,13,Moja,GP,Senegal,R,NA,NA,NA,NA,NA,"only 1 responded, not using",NGO,HU2vsMoja
+29,FCV2,22,2,M,22-Mar,1-Mar,10,Afi,QU,Gabon,R,12:20,95,15,0,0.6,,FCV,HU1vsAfi
+30,AWK51-100,22,4,M,22-Mar,1-Mar,14,Afi,QU,Nigeria,R,1:00,94,24,6,0.6,,AWK,HU1vsAfi
+31,OGDT,22,3,M,22-Mar,1-Mar,14,Afi,QU,BurkinaFaso,R,12:40,95,21,12,0.6,,OGD,HU1vsAfi
+32,NGO16-40,22,1,M,22-Mar,1-Mar,14,Afi,QU,Senegal,R,12:00,71,10,34,0.6,,NGO,HU1vsAfi
